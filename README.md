@@ -6,5 +6,5 @@
 * #### 本demo的并不是直接处理名字的hash值，而是在名字后面加上了日期中的 ‘day’,这样每一天都是不同的人品值，但是相同的一天任何时刻人品值是相同的
 * #### 使用spring+spring MVC框架
 
-* #### 演示地址：[人品计算器](http://47.102.101.2:8081/CharacterCalculator/forehome, "我是标题")
+* #### 演示地址：[人品计算器](http://47.102.101.2:8081/CharacterCalculator/forehome)
 * #### 以后会考虑加入部分名字过滤
