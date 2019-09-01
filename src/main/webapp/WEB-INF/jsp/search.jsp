@@ -12,7 +12,7 @@
 <script>
     $(function(){
         $("input.btn").click(function(){
-            var $name = $("#name").trim().val();
+            var $name = $("#name").val().trim();
             if($name.length===0){
                 alert('请输入姓名','name');
                 $("#name").focus();
