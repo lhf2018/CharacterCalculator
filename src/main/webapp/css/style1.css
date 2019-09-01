@@ -1,0 +1,43 @@
+.showcase {
+    background: url("../img/orange.jpg") no-repeat 0 0;
+    background-size: cover;/*自适应*/
+    border-radius: 12px;
+    width: 60%;
+    height: 45%;
+    margin-top: 100px;
+    box-shadow: 10px 10px 5px #888888;
+    border: 10px outset #FF6600;
+}
+.inner{
+    width: 60%;
+    margin-top: 50px;
+}
+.think{
+    border: 5px solid #999999;
+    width: 50%;
+    border-radius: 12px;
+    background-color: darkorange;
+
+}
+.span {
+    color:black;
+    font-weight: bold;
+}
+p {
+    margin-left: 30px;
+    /*text-align: left;*/
+}
+.input {
+    width:360px; height:42px; line-height:30px; padding:4px 15px; border:2px solid #F70; font-size:14px;
+    font-family: Arial, serif;
+}
+.btn {
+    width:100px;
+    height:40px;
+    margin-left: 20px;
+    cursor:pointer;
+    background: url("../img/submit.png") no-repeat 0 -27px;
+    border-radius: 12px;
+    border-style: none;
+    background-size: cover;/*自适应*/
+}
